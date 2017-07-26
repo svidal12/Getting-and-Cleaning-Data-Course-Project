@@ -24,7 +24,7 @@ Creating a second, independent tidy data set with the average of each variable f
 - Writing second tidy data set in txt file
 
 
-## About variables:
+## About variables
 
 x_train, y_train, x_test, y_test, subject_train and subject_test contain the data from the downloaded files.
 x_data, y_data and subject_data merge the previous datasets to further analysis.
